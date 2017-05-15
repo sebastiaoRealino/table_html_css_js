@@ -1,0 +1,20 @@
+
+.team_icons {
+    height: 200px;
+    margin: 5px;
+}
+.table, th, td{
+    border: 1px solid black;
+    background:  gray;
+}
+
+.sp {
+    background: palevioletred;   
+}
+
+
+.font-class {
+    font-size: 1.8em;
+    font-family: fantasy;
+    font-weight: 100;
+}
